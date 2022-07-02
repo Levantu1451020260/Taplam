@@ -1,0 +1,38 @@
+.utilities-it{
+    width: 200px;
+    height: 150px;
+    border: 5px solid black;
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    background-color: #f8f9fa;
+    border-radius: 7px;
+}
+.utilities{
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 20px;
+    color: #000;
+}
+.conten{
+    font-size: 23px;
+    margin: 3px;
+    padding: 3px;
+    font-family: serif;
+    color: #000;
+}
+.conten_text{
+    font-size: 20px;
+    margin: 3px;
+    padding: 3px;
+    font-family: serif;
+    color: #000;
+}
+.utilities-it-logo{
+    font-size: 25px;
+    color: black;
+}
+.utilities-it a{
+    text-decoration: none;
+}

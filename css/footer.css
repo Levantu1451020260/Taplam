@@ -1,0 +1,31 @@
+.footer-it{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+.yCmsComponent a{
+    font-size: 15px;
+    font-family: serif;
+    padding: 10px 20px;
+    margin: 20px;
+    color: #ffff;
+    text-decoration: none;
+    line-height: 2rem;
+}
+.yCmsComponent-it a{
+    text-decoration: none;
+    font-size: 20px;
+    color: red;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    line-height: 2.5rem;
+    margin-left: 20px;
+}
+.footer-in{
+    padding: 10px 20px;
+    text-align: end;
+    background-color: #8d99ae;
+    font-size: 15px;
+    font-family: serif;
+    color: #ffff;
+}
